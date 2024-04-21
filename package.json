@@ -1,0 +1,12 @@
+{
+  "name": "assignment_32",
+  "version": "1.0.0",
+  "description": "In this typescript file we solved assignment_32 of govornor sindh it initative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shoaib-ur-Rehman Roll No 00323925",
+  "license": "ISC"
+}
